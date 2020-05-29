@@ -1,4 +1,5 @@
 # Task Overview: 
+		… run using python home.py
 
 Here is an API that provides the list of upcoming technical conferences. When you do a GET call for this REST API, you will get the list of conferences and their details in JSON format:   
 
@@ -6,9 +7,6 @@ https://o136z8hk40.execute-api.us-east-1.amazonaws.com/dev/get-list-of-conferenc
 
 
 The key and values for the JSON entries are self-explanatory. For example, some of the entries are: 
-
-
-	… run using python home.py
 
 "confUrl": "https://futureconevents.com/events/san-antonio/", 
 
